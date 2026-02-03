@@ -36,5 +36,6 @@ JavaScript y jQuery.
 
 \## Enlace al CV
 
-https://mariasofiaubilla-maker.github.io/M2/
+https://mariasofiaubilla-maker.github.io/cv/
+
 
